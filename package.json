@@ -4,6 +4,7 @@
   "description": "Express + Node.js + TS + Swagger + Jest",
   "main": "index.js",
   "scripts": {
+    "dev": "node --watch index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/cris-rod96/code-verifier-backend/issues"
   },
-  "homepage": "https://github.com/cris-rod96/code-verifier-backend#readme"
+  "homepage": "https://github.com/cris-rod96/code-verifier-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1"
+  }
 }
