@@ -1,0 +1,26 @@
+{
+  "name": "code-verifier-backend",
+  "version": "1.0.0",
+  "description": "Express + Node.js + TS + Swagger + Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cris-rod96/code-verifier-backend.git"
+  },
+  "keywords": [
+    "Node.js",
+    "TS",
+    "Express",
+    "Jest",
+    "Swagger"
+  ],
+  "author": "@cris-rod96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cris-rod96/code-verifier-backend/issues"
+  },
+  "homepage": "https://github.com/cris-rod96/code-verifier-backend#readme"
+}
